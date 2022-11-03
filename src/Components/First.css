@@ -1,0 +1,53 @@
+.main{
+    /* background-image:url("../Images/img2.jpg");
+    background-image: cover; */
+    /* background-position-x: 0%;
+    background-position-y: 0%; */
+    /* background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: auto; */
+    background-color:
+    #FF60B6;
+    width: 200px;;
+    
+  
+}
+.wi{
+    width: 100px;
+}
+.ma{
+    
+}
+.pi{
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.car{
+    margin-top: -300px;
+    margin-left: -40px;
+}
+.circle{
+    width: 40px;
+    height: 40px;
+    background-color: 
+    #FF60B6;
+}
+.wica{
+    width: px;
+}
+.second{
+    margin-left: -200px;
+}
+.ims{
+    margin-left:-200px;
+}
+.strategy{
+    margin-left: 100px;
+}
+.te{
+    font-size: small;
+}
+.un{
+    text-decoration: underline;
+}
